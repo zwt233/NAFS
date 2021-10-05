@@ -24,10 +24,10 @@ cd ./src; bash ./run.sh
 
  
 
-###Node Clustering Results:
+### Node Clustering Results:
 
-![citation_networks_perf](./clustering_perf.png)
+![cluster](./clustering_perf.png)
 
 ### Link Prediction Results:
 
-![](\link_prediction_perf.png)
+![link](./link_prediction_perf.png)
