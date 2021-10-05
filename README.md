@@ -26,7 +26,7 @@ cd ./src; bash ./run.sh
 
 ###Node Clustering Results:
 
-![citation_networks_perf](.\clustering_perf.png)
+![citation_networks_perf](./clustering_perf.png)
 
 ### Link Prediction Results:
 
